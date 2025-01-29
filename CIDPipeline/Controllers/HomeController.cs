@@ -15,7 +15,7 @@ namespace CIDPipeline.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "This is Your application description page.";
 
             return View();
         }
